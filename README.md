@@ -20,8 +20,7 @@ Seja bem-vindo ao **Sistema de Cadastro de Usuários**, um projeto de estudo des
   - ➕ Cadastrar novos usuários.
   - 🔄 Editar dados existentes. _(em andamento)_
   - ❌ Excluir usuários. _(em andamento)_
-  - 📋 Visualizar todos os usuários em uma tabela dinâmica. _(em andamento)_
-
+  - 📋 Visualizar todos os usuários em uma tabela dinâmica.
 - **Validações Simples**:
   - Campos obrigatórios, como nome, email e data de nascimento.
   - Feedback visual com notificações.
